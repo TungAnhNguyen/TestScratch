@@ -1,5 +1,5 @@
  :s
  color 2
- echo Qu'est que tu fais?
+ echo HelloWorld
  start "" 
  REM goto s
